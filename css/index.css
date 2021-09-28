@@ -23,6 +23,6 @@ pre code{ width:100%; margin:-20px 0 -30px; display:block; word-break:break-all;
 .code-preview + pre{ margin-top:10px; }
 
 .img-box img{ max-width:100%; height:auto; }
-.info-box table{ margin-top:10px; display:table; table-layout:fixed; }
+.info-box { margin:0; padding:0; }
 .info-box table tr th, .info-box table tr td{ padding:5px 10px; border:1px solid #c7c7c7; }
 .info-box table tr th{ background-color:#c7c7c7; }
