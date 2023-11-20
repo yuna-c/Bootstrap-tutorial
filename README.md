@@ -1,2 +1,2 @@
 # bootstrap
-https://yuna-c.github.io/bootstrap/
+https://yuna-c.github.io/Bootstrap-tutorial/
